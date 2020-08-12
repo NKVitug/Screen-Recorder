@@ -19,4 +19,4 @@
 <p><strong>Author Credit:&nbsp;</strong><em>Fireship<br /></em><strong>Youtube Video Link:</strong> https://www.youtube.com/watch?v=3yqDxhR2XxE </p>
 <p>&nbsp;</p>
 
-<img src="https://github.com/NKVitug/Screen-Recorder/blob/master/Screen-Recorder.JPG?raw=true" alt="Screen-Recorder" width="500" height="333">
+<img src="https://github.com/NKVitug/Screen-Recorder/blob/master/Screen-Recorder.JPG?raw=true" alt="Screen-Recorder" width="500" height="500">
