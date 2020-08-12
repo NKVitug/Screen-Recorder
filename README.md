@@ -1,5 +1,20 @@
-# Electron Screen Recorder
-
-Build a screen recorder with Electron from scratch. 
-
-Watch the [Electron 8 Tutorial](https://youtu.be/3yqDxhR2XxE) on YouTube. 
+<h1><strong>ELECTRON SCREEN RECORDER&nbsp; </strong></h1>
+<p style="text-align: justify;">A simple screen recoder Application that can capture and record video files from your desktop.</p>
+<p style="text-align: justify;">This project application is made using the Electron framework with the use of the following web tools: HTML, CSS, and JavaScript.&nbsp;</p>
+<p style="text-align: justify;"><strong>Requirements:</strong></p>
+<ul>
+  <li style="text-align: justify;">Nodejs</li>
+  <li style="text-align: justify;">Code Editor (e.g Visual Studio Code, Atom)</li>
+</ul>
+<p style="text-align: justify;"><strong>Instructions</strong>:</p>
+<pre><span class="pl-c"># Clone this repository</span>
+<strong><em>git clone https://github.com/NKVitug/System-Monitor.git</em>
+</strong><span class="pl-c"># Go into the repository</span>
+<strong><em><span class="pl-c1">cd</span> System-Monitor</em>
+</strong><span class="pl-c"># Install dependencies</span>
+<strong><em>npm install</em>
+</strong><span class="pl-c"># Run the app</span>
+<strong><em>npm start</em></strong></pre>
+<p>Be also creative and try designing your UI</p>
+<p><strong>Author Credit:&nbsp;</strong><em>Fireship<br /></em><strong>Youtube Video Link:</strong> https://www.youtube.com/watch?v=3yqDxhR2XxE </p>
+<p>&nbsp;</p>
