@@ -1,5 +1,5 @@
 <h1><strong>ELECTRON SCREEN RECORDER&nbsp; </strong></h1>
-<p style="text-align: justify;">A simple screen recoder Application that can capture and record video files from your desktop.</p>
+<p style="text-align: justify;">A simple screen recoder application that can capture and record video files from your desktop.</p>
 <p style="text-align: justify;">This project application is made using the Electron framework with the use of the following web tools: HTML, CSS, and JavaScript.&nbsp;</p>
 <p style="text-align: justify;"><strong>Requirements:</strong></p>
 <ul>
@@ -8,7 +8,7 @@
 </ul>
 <p style="text-align: justify;"><strong>Instructions</strong>:</p>
 <pre><span class="pl-c"># Clone this repository</span>
-<strong><em>git clone https://github.com/NKVitug/System-Monitor.git</em>
+<strong><em>git clone https://github.com/NKVitug/Screen-Recorder.git</em>
 </strong><span class="pl-c"># Go into the repository</span>
 <strong><em><span class="pl-c1">cd</span> System-Monitor</em>
 </strong><span class="pl-c"># Install dependencies</span>
