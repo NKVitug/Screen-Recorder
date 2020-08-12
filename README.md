@@ -20,3 +20,4 @@
 <p>&nbsp;</p>
 <p><strong>USER INTERFACE</strong></p>
 <img src="https://github.com/NKVitug/Screen-Recorder/blob/master/Screen-Recorder.JPG?raw=true" alt="Screen-Recorder" width="500" height="500">
+<img src="https://github.com/NKVitug/Screen-Recorder/blob/master/Screen-Recorder-1.png?raw=true" alt="Screen-Recorder" width="500" height="500">
