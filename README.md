@@ -18,5 +18,5 @@
 <p>Be also creative and try designing your UI</p>
 <p><strong>Author Credit:&nbsp;</strong><em>Fireship<br /></em><strong>Youtube Video Link:</strong> https://www.youtube.com/watch?v=3yqDxhR2XxE </p>
 <p>&nbsp;</p>
-
+<p><strong>User Interface</strong></p>
 <img src="https://github.com/NKVitug/Screen-Recorder/blob/master/Screen-Recorder.JPG?raw=true" alt="Screen-Recorder" width="500" height="500">
