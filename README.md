@@ -17,9 +17,8 @@
 <strong><em>npm start</em></strong></pre>
 <p>Be also creative and try designing your UI</p>
 <p><strong>Author Credit:&nbsp;</strong><em>Fireship<br /></em><strong>Youtube Video Link:</strong> https://www.youtube.com/watch?v=3yqDxhR2XxE </p>
-<p>&nbsp;</p>
 <p><strong>USER INTERFACE</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
   <tbody>
     <tr>
       <td style="width: 50%;"><img src="https://github.com/NKVitug/Screen-Recorder/blob/master/Screen-Recorder.JPG?raw=true" alt="Screen-Recorder" width="500" height="500"></td>
