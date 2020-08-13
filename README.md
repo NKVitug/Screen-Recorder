@@ -24,4 +24,4 @@
 </div>
 <div>
     <img src="https://github.com/NKVitug/Screen-Recorder/blob/master/Screen-Recorder-1.png?raw=true" alt="Screen-Recorder" width="500" height="500" >
-/div>
+</div>
