@@ -21,8 +21,8 @@
 <table style="border-collapse: collapse; width: 100%;" border="0">
   <tbody>
     <tr>
-      <td style="width: 50%;"><img src="https://github.com/NKVitug/Screen-Recorder/blob/master/Screen-Recorder.JPG?raw=true" alt="Screen-Recorder" width="500" height="500"></td>
-      <td style="width: 50%;"><img src="https://github.com/NKVitug/Screen-Recorder/blob/master/Screen-Recorder-1.png?raw=true" alt="Screen-Recorder" width="500" height="500" ></td>
+      <td style="width: 50%;"><img src="https://github.com/NKVitug/Screen-Recorder/blob/master/SR-UI1.JPG?raw=true" alt="Screen-Recorder" width="500" height="500"></td>
+      <td style="width: 50%;"><img src="https://github.com/NKVitug/Screen-Recorder/blob/master/SC-UI2.png?raw=true" alt="Screen-Recorder" width="500" height="500" ></td>
     </tr>
   </tbody>
 </table>
