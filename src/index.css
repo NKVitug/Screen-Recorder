@@ -1,21 +1,27 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   margin: auto;
-  max-width: 38rem;
-  padding: 2rem;
+//  max-width: 38rem;
+  padding: 1rem;
   background-color: #282726 ;
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 20%;
 }
 
 video {
-  
+
   width: 100%;
   height: 100%
   position: relative;
 }
 
-h1 {
+p.title {
   text-align: left;
-  color: #FBFCFC ;
+  color: #F8C471 ;
+  font-size: 20px;
 }
 
 #videoSelectBtn:hover {
@@ -36,5 +42,6 @@ body {
 }
 
 button {
-    float: center;
+    align-items: center
+    margin-bottom: 20%;
 }
