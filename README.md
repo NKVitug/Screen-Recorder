@@ -18,11 +18,7 @@
 <p>Be also creative and try designing your UI</p>
 <p><strong>Author Credit:&nbsp;</strong><em>Fireship/Jeff Delaney<br /></em><strong>Youtube Video Link:</strong> https://www.youtube.com/watch?v=3yqDxhR2XxE <br /><strong>Full Tutorial:&nbsp;</strong><em>https://fireship.io/lessons/electron-screen-recorder-project-tutorial/ </p>
 <p><strong>USER INTERFACE</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="0">
-  <tbody>
-    <tr>
-      <td style="width: 50%;"><img src="https://github.com/NKVitug/Screen-Recorder/blob/master/SR-UI1.JPG?raw=true" alt="Screen-Recorder" width="500" height="500"></td>
-      <td style="width: 50%;"><img src="https://github.com/NKVitug/Screen-Recorder/blob/master/SC-UI2.png?raw=true" alt="Screen-Recorder" width="500" height="500" ></td>
-    </tr>
-  </tbody>
-</table>
+<p><img src="https://github.com/NKVitug/Screen-Recorder/blob/master/SR-UI1.JPG?raw=true" alt="Screen-Recorder" width="1000" height="1000"></img></p>
+<p><img src="https://github.com/NKVitug/Screen-Recorder/blob/master/SC-UI2.png?raw=true" width="1000" height="1000"></img></p>
+
+      
