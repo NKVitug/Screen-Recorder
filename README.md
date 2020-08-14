@@ -16,7 +16,7 @@
 </strong><span class="pl-c"># Run the app</span>
 <strong><em>npm start</em></strong></pre>
 <p>Be also creative and try designing your UI</p>
-<p><strong>Author Credit:&nbsp;</strong><em>Fireship<br /></em><strong>Youtube Video Link:</strong> https://www.youtube.com/watch?v=3yqDxhR2XxE </p>
+<p><strong>Author Credit:&nbsp;</strong><em>Fireship/Jeff Delaney<br /></em><strong>Youtube Video Link:</strong> https://www.youtube.com/watch?v=3yqDxhR2XxE <br /><strong>Full Tutorial:&nbsp;</strong><em>https://fireship.io/lessons/electron-screen-recorder-project-tutorial/ </p>
 <p><strong>USER INTERFACE</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
   <tbody>
